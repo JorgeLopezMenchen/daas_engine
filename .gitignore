@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Claves y secretos (CRÍTICO: Nunca subir a GitHub)
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
